@@ -202,7 +202,7 @@ header label{
     display: flex;
     gap: 1rem;
     align-items: center;
-    width: 30%;
+    width: 100%;
 }
 
 .article-secondary img{
